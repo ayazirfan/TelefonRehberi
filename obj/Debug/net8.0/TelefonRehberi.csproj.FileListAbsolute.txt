@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Patika\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.exe
+c:\Users\HP\Desktop\Patika\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.deps.json
+c:\Users\HP\Desktop\Patika\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.runtimeconfig.json
+c:\Users\HP\Desktop\Patika\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.dll
+c:\Users\HP\Desktop\Patika\TelefonRehberi\bin\Debug\net8.0\TelefonRehberi.pdb
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.AssemblyInfo.cs
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.dll
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\refint\TelefonRehberi.dll
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.pdb
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\TelefonRehberi.genruntimeconfig.cache
+c:\Users\HP\Desktop\Patika\TelefonRehberi\obj\Debug\net8.0\ref\TelefonRehberi.dll
